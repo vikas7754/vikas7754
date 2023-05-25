@@ -1,6 +1,6 @@
 <div align="center">
-    <a href="https://freecodez.com" target="_blank">
-        <img style="border: 2px solid #ccc; border-radius: 50%; object-fit: cover;" height="150" src="https://res.cloudinary.com/freecodez/image/upload/v1685022826/other/bnrnd84z3vuorqmkrniq.webp"  />
+    <a href="https://freecodez.com/portfolio" target="_blank">
+        <img height="150" src="https://res.cloudinary.com/freecodez/image/upload/v1685042487/other/wwj2tuqxoosqhrf5yq3h.webp"  />
     </a>
 </div>
 
@@ -18,8 +18,6 @@
   </a>
 </div>
 <hr/>
-
-# Glowing Button
 
 <div align="center">
 <h2>View Demo</h2>
