@@ -1,6 +1,6 @@
 <div align="center">
     <a href="https://freecodez.com/portfolio" target="_blank">
-        <img height="150" src="https://res.cloudinary.com/freecodez/image/upload/v1685042487/other/wwj2tuqxoosqhrf5yq3h.webp"  />
+        <img height="100" src="https://res.cloudinary.com/freecodez/image/upload/v1685042487/other/wwj2tuqxoosqhrf5yq3h.webp"  />
     </a>
 </div>
 
