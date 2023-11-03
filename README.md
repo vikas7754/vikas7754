@@ -23,6 +23,9 @@
 <h2>
     <a href="mailto:vikask4590@gmail.com">Vikask4590@gmail.com</a>
 </h2>
+Hi,
+My name is Vikas.
+I love creating beautiful and dynamic websites.
   
 </div>
 
